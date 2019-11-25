@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">counquiz</string>
+    <string name="flag_pic">flag_pic</string>
+    <string name="a_choice">a_choice</string>
+    <string name="b_choice">b_choice</string>
+    <string name="c_choice">c_choice</string>
+    <string name="d_choice">d_choice</string>
+    <string name="capitalque">capitalque</string>
+    <string name="a_choice2">a_choice2</string>
+    <string name="b_choice2">b_choice2</string>
+    <string name="c_choice2">c_choice2</string>
+    <string name="d_choice2">d_choice2</string>
+</resources>
